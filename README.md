@@ -1,4 +1,4 @@
-# <img src="./images/stoopidlogomd.png" width="32" height="32">TOOPID
+# <img src="./images/stoopidlogomd.png" width="32" height="32">TOOPID moved to https://github.com/stoopidOrganization/stoopid
 ---
 ##### Usage:
 - Python: `python stoopid.py <filename>`
